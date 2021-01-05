@@ -1,6 +1,6 @@
 # Nesne Korumalı Seam Carving - Object Protected Seam Carving
 
-**Versiyon	:**  2.0 		<br />
+**Versiyon	:**  1.0 		<br />
 **Lisans  	:**  GPL 		<br />
 **Contributors  :**  Burak Büyükyüksel	<br />
 
@@ -18,7 +18,7 @@
 * <i>python 3.8</i>
 * <i>requirements.txt</i>
 * <i>YoloV4 Ağırlıkları 
-	<a href="https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights">Buradan indirip</a> 
+	<a href="https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights">buradan indirip</a> 
 	yolov4config dizini altına kopyalanmalıdır.</i>
 
 
