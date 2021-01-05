@@ -52,7 +52,7 @@
 	</tr>
 	<tr>
 		<td><img src = "resources/Seam.png" height=200px width=100% /> </td>
-		<td><img src = "resoruces/SeamBBOX.png" height=200px width=100% /> </td>
+		<td><img src = "resources/SeamBBOX.png" height=200px width=100% /> </td>
 		<td><img src = "resources/result.png" height=200px width=100% /> </td>
 	</tr>
 </table>
