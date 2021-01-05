@@ -17,6 +17,10 @@
 ## Gereksinimler
 * <i>python 3.8</i>
 * <i>requirements.txt</i>
+* <i>YoloV4 Ağırlıkları 
+	<a href="https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights">Buradan indirip</a> 
+	yolov4config dizini altına kopyalanmalıdır.</i>
+
 
 ### Gereksininlerin Kurulması
 <i> Windows için:</i>
